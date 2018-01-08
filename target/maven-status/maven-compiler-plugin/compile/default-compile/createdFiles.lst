@@ -1,0 +1,7 @@
+org\pwm\model\SearchDetails.class
+org\pwm\dao\PwmDAO.class
+org\pwm\model\UserDetails.class
+org\pwm\controller\HomeController.class
+org\pwm\util\CryptCodecOpener.class
+org\pwm\util\DBConnectionUtil.class
+org\pwm\service\PwmService.class

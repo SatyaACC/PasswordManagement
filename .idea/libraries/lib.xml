@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/spring-beans-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/mysql-connector-java-5.1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/spring-web-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/jackcess-encrypt-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/ucanaccess-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/spring-tx-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/bcprov-jdk15on-1.58.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/spring-webmvc-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/spring-aop-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/spring-expression-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/spring-context-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/spring-jdbc-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/hsqldb-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/spring-core-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/jackcess-2.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PasswordManager/target/PasswordManager/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
