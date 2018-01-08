@@ -35,7 +35,7 @@ public class HomeController {
 	 */
 	@RequestMapping(value = "/login", method = RequestMethod.GET)
 	public ModelAndView showLoginPage(HttpServletRequest request, HttpServletResponse response) {
-		logger.debug("inside homecontroller");		
+		logger.debug("inside homecontroller entry");		
 		ModelAndView mav = new ModelAndView("adminlogin");
 		mav.addObject("errorMsg", "");
 		return mav;
